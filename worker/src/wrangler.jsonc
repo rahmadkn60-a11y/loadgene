@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+
+  "name": "luaforge-api",
+
+  "main": "src/index.js",
+
+  "compatibility_date": "2026-10-05",
+
+  "vars": {
+    "GITHUB_OWNER": "rahmadkn60-a11y",
+    "GITHUB_REPO": "LOADJMBT",
+    "GITHUB_BRANCH": "main",
+    "GITHUB_FOLDER": "uploads"
+  }
+}
