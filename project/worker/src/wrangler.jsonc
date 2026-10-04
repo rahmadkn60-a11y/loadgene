@@ -1,0 +1,20 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+
+  "name": "loadgene",
+
+  "main": "src/index.js",
+
+  "compatibility_date": "2026-10-05",
+
+  "workers_dev": true,
+
+  "preview_urls": true,
+
+  "vars": {
+    "GITHUB_OWNER": "rahmadkn60-a11y",
+    "GITHUB_REPO": "LOADJMBT",
+    "GITHUB_BRANCH": "main",
+    "GITHUB_FOLDER": "uploads"
+  }
+}
